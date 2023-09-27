@@ -26,6 +26,9 @@
   <li>Navigate to the project directory.</li>
   <pre><code>cd your-repo</code></pre>
 
+  <li>Create an "images" folder in the project root directory. You can use the following command:</li>
+  <pre><code>mkdir images</code></pre>
+
   <li>Install the required Python packages using pip.</li>
   <pre><code>pip install -r requirements.txt</code></pre>
 </ol>
